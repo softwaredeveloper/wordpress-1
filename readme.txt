@@ -40,6 +40,8 @@ Add a [Like Button](https://developers.facebook.com/docs/plugins/like-button/), 
 
 The development [source code for this plugin is available on Facebook's GitHub account](https://github.com/facebook/wordpress). [Pull Requests](https://github.com/facebook/wordpress/pulls) and code discussion welcome.
 
+Wordpress development by https://www.phpfreelanceprogrammer.com/
+
 == Installation ==
 
 1. Install Facebook for WordPress either via the WordPress.org plugin directory, or by uploading the files to your server (in the `/wp-content/plugins/` directory).
