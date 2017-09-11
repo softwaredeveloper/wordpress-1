@@ -40,7 +40,7 @@ Add a [Like Button](https://developers.facebook.com/docs/plugins/like-button/), 
 
 The development [source code for this plugin is available on Facebook's GitHub account](https://github.com/facebook/wordpress). [Pull Requests](https://github.com/facebook/wordpress/pulls) and code discussion welcome.
 
-Wordpress development by https://www.phpfreelanceprogrammer.com/
+[Freelance Wordpress developer](https://www.phpfreelanceprogrammer.com/wordpress-developer.html)
 
 == Installation ==
 
